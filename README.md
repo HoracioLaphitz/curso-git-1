@@ -13,3 +13,9 @@ flowchart LR
   A["img + index.html + index.js"] --> B["Procesamiento de curso-git-1"]
   B --> C["Resultados del proyecto"]
 ```
+
+## Tecnologías
+
+- HTML
+- CSS
+- JavaScript
